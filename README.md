@@ -28,8 +28,10 @@ that will be used for running the handoff scripts.
 Note that the default script provided here accesses and reads the
 credential database setup using the cred_mgmt.py script.
 Since it stores credentials for storage array, we recommend:
+
 1. Run the scripts using Administrator account
 2. Set 'Administrator' only permissions on the WORK_DIR.
+
 This will ensure no one else has access to the credentials database.
 
 
