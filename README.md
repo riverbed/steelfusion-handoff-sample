@@ -6,7 +6,8 @@ steelfusion-handoff-sample provides Riverbed SteelFusion Handoff Sample Scripts 
 Preparing the Handoff Host
 ---------------------
 
-The scripts have been tested on Windows 2K8 R2.
+The scripts have been tested on Windows 2K8 R2. Following software is required:
+
 1. Install Python3.3 under C:\Python33 for "all" users.
 2. Install VMware's Perl SDK. The minimum required version is "VMware vSphere SDK for Perl 5.1".
 By default, the SDK is installed at 'C:\Program Files (x86)\Vmware'.
