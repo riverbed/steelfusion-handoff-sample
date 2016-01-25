@@ -1,3 +1,5 @@
+NOTE: Please go to the following repository for working and tested handoff scripts bundle: https://github.com/riverbed/steelfusion-handoff
+
 SteelFusion Handoff Sample Script
 ============================
 
